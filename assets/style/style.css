@@ -110,3 +110,82 @@
   border-radius: 14px;
   border: 3px #3a4980 solid
 }
+
+.first-nav {
+  width: 35vw;
+  height: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background: #edf0f8;
+  border-radius: 8px;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 14px;
+  display: inline-flex;
+}
+
+.home,
+.decoration,
+.furniture,
+.storage {
+  color: #a3a9c2;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.sideboard {
+  color: #3A4980;
+  font-weight: 600;
+}
+
+#below-div {
+  max-width: 40vw;
+  max-height: 40vh;
+  justify-content: space-between;
+  align-items: flex-start;
+  display: flex;
+  margin-top: 20px;
+}
+
+.two-embrace {
+  max-width: 35vw;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 11px;
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.two-embrace,
+.embrace {
+  color: #000;
+  font-size: 28px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word
+}
+
+.two-embrace,
+.teixeira {
+  color: #b9bbbf;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word
+}
+
+
+
+#three {
+  width: 35vw;
+  height: 35vh;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 41px;
+  display: inline-flex;
+}
