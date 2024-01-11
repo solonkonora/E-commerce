@@ -142,7 +142,7 @@
   font-weight: 600;
 }
 
-#below-div {
+#below-nav {
   max-width: 40vw;
   max-height: 40vh;
   justify-content: space-between;
@@ -183,7 +183,6 @@
 
 #three {
   width: 35vw;
-  height: 35vh;
   justify-content: flex-start;
   align-items: center;
   gap: 41px;
